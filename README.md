@@ -65,8 +65,8 @@ npm run dev
 npm start
 
 ## 参考资料
-[1]: https://juejin.im/post/59881640f265da3e154b0509 "Express 与 koa 中间件模式对比"
-[2]: https://www.jianshu.com/p/2ff44cd029e7 "Koa2 "
+https://juejin.im/post/59881640f265da3e154b0509 "Express 与 koa 中间件模式对比"
+https://www.jianshu.com/p/2ff44cd029e7 "Koa2"
 
 
 
